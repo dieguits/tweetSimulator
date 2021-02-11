@@ -2,3 +2,4 @@
 
 * You can see how it is done by the image bellow:
 
+![Image Tweet Simulator](https://github.com/dieguits/tweetSimulator/blob/master/TweetSimulatorImg.PNG)
